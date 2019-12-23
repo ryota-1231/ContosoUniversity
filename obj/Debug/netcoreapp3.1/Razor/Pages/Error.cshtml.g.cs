@@ -12,11 +12,13 @@ namespace ContosoUniversity.Pages
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
 #line 1 "/Users/ryotaaoyagi/ContosoUniversity/Pages/_ViewImports.cshtml"
 using ContosoUniversity;
 
 #line default
 #line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1f02565c188bc0cf60de1bc120acef71a3608055", @"/Pages/Error.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c4c0473ebe7d620ab1ae06d83bc5bc87bf314407", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Error : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
@@ -24,31 +26,39 @@ using ContosoUniversity;
         #pragma warning disable 1998
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
+#nullable restore
 #line 3 "/Users/ryotaaoyagi/ContosoUniversity/Pages/Error.cshtml"
   
     ViewData["Title"] = "Error";
 
 #line default
 #line hidden
+#nullable disable
             WriteLiteral("\r\n<h1 class=\"text-danger\">Error.</h1>\r\n<h2 class=\"text-danger\">An error occurred while processing your request.</h2>\r\n\r\n");
+#nullable restore
 #line 10 "/Users/ryotaaoyagi/ContosoUniversity/Pages/Error.cshtml"
  if (Model.ShowRequestId)
 {
 
 #line default
 #line hidden
+#nullable disable
             WriteLiteral("    <p>\r\n        <strong>Request ID:</strong> <code>");
+#nullable restore
 #line 13 "/Users/ryotaaoyagi/ContosoUniversity/Pages/Error.cshtml"
                                       Write(Model.RequestId);
 
 #line default
 #line hidden
+#nullable disable
             WriteLiteral("</code>\r\n    </p>\r\n");
+#nullable restore
 #line 15 "/Users/ryotaaoyagi/ContosoUniversity/Pages/Error.cshtml"
 }
 
 #line default
 #line hidden
+#nullable disable
             WriteLiteral(@"
 <h3>Development Mode</h3>
 <p>

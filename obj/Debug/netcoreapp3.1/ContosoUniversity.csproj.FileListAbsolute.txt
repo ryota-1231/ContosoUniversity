@@ -146,3 +146,8 @@
 /Users/ryotaaoyagi/ContosoUniversity/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/ryotaaoyagi/ContosoUniversity/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/ryotaaoyagi/ContosoUniversity/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ryotaaoyagi/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Pages/Students/Create.cshtml.g.cs
+/Users/ryotaaoyagi/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Pages/Students/Delete.cshtml.g.cs
+/Users/ryotaaoyagi/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Pages/Students/Details.cshtml.g.cs
+/Users/ryotaaoyagi/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Pages/Students/Edit.cshtml.g.cs
+/Users/ryotaaoyagi/ContosoUniversity/obj/Debug/netcoreapp3.1/Razor/Pages/Students/Index.cshtml.g.cs
