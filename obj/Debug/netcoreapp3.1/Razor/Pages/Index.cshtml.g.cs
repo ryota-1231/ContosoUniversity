@@ -12,11 +12,13 @@ namespace ContosoUniversity.Pages
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
 #line 1 "/Users/ryotaaoyagi/ContosoUniversity/Pages/_ViewImports.cshtml"
 using ContosoUniversity;
 
 #line default
 #line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ce0b2213c4c7a823da4c3da3a2b705cb14dd65be", @"/Pages/Index.cshtml")]
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c4c0473ebe7d620ab1ae06d83bc5bc87bf314407", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Index : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
@@ -24,12 +26,14 @@ using ContosoUniversity;
         #pragma warning disable 1998
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
+#nullable restore
 #line 3 "/Users/ryotaaoyagi/ContosoUniversity/Pages/Index.cshtml"
   
     ViewData["Title"] = "Home page";
 
 #line default
 #line hidden
+#nullable disable
             WriteLiteral(@"
 <div class=""row mb-auto"">
     <div class=""col-md-4"">
